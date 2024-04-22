@@ -1,0 +1,3 @@
+- Full stack bookstore newsletter app that gives weekly book recommendation using PERN stack and various AWS tools
+- CRUD functionality by allowing users to create, read, update and delete book entries
+- Uses AWS S3, RDS, SES, EventBridge, Lambda and Amplify
